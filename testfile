@@ -1,4 +1,8 @@
 this is my testfile
+<<<<<<< HEAD
 
 
 Demo of Pull Command
+=======
+test 
+>>>>>>> 2a5650d475ce16cf3fb97064168e430476e57eba
